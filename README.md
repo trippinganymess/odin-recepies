@@ -1,1 +1,1 @@
-# odin-recepies
+this is a project that states my beginning into web dev.
